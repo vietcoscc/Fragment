@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="login">Login</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtRegister">Register</string>
+    <string name="txtChangePassword">Change password</string>
+    <string name="txtUserName">User name ...</string>
+    <string name="txtPassword">Password ...</string>
+    <string name="txtOk">Ok</string>
+</resources>
